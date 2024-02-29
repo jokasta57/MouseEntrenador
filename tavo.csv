@@ -1,0 +1,4 @@
+X_target,Y_target,Hora_target,X_click_sujeto,Y_click_sujeto,Hora_click_sujeto,Diferencia_X,Diferencia_Y, Dif_Tiempo, N_correctos,Posición Target, Fecha_prueba: Tue Oct 04 00:48:26 CDT 2022,Sujeto: tavo,N_ensayos: 10,Umbral Clicks correctos: 5,Lim. Tiempo (seg): 3,Distancia Limite_X: 80,Distancia Limite_Y: 80
+1280,720,0:48:26:267,1270,815,0:48:27:881,10,-95,0:0:1:614,_,centro
+2126,780,0:48:27:881,2143,847,0:48:30:75,-17,-67,0:0:2:806,correcto, aleatoria
+1280,720,0:48:30:75,1314,780,0:48:31:223,-34,-60,0:0:1:148,correcto, centro

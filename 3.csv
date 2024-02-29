@@ -1,0 +1,6 @@
+X_target,Y_target,Hora_target,X_click_sujeto,Y_click_sujeto,Hora_click_sujeto,Diferencia_X,Diferencia_Y, Dif_Tiempo, N_correctos,Posición Target, Fecha_prueba: Sun Nov 27 22:54:30 CST 2022,Sujeto: 3,N_ensayos: 10,Umbral Clicks correctos: 5,Lim. Tiempo (seg): 3,Distancia Limite_X: 80,Distancia Limite_Y: 80
+1280,720,22:54:30:455,1255,798,22:54:31:919,25,-78,0:0:1:464,correcto,centro
+2408,528,22:54:31:919,2450,596,22:54:32:842,-42,-68,0:0:0:77,correcto, aleatoria
+1280,720,22:54:32:842,1339,787,22:54:33:620,-59,-67,0:0:0:222,correcto, centro
+2191,998,22:54:33:620,2217,1010,22:54:35:429,-26,-12,0:0:1:191,correcto, aleatoria
+1280,720,22:54:35:429,1296,783,22:54:36:363,-16,-63,0:0:0:66,correcto, centro

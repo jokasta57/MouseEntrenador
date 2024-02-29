@@ -1,0 +1,9 @@
+X_target,Y_target,Hora_target,X_click_sujeto,Y_click_sujeto,Hora_click_sujeto,Diferencia_X,Diferencia_Y, Dif_Tiempo, N_correctos,Posición Target, Fecha_prueba: Wed Feb 28 17:43:07 CST 2024,Sujeto: KidA,N_ensayos: 10,Umbral Clicks correctos: 3,Lim. Tiempo (seg): 3,Distancia Limite_X: 80,Distancia Limite_Y: 80
+1280,720,17:43:7:50,1309,790,17:43:7:960,-29,-70,0:0:0:910,correcto, centro
+722,18,17:43:7:960,892,333,17:43:8:612,-170,-315,0:0:0:348,_,aleatoria
+1280,720,17:43:8:612,1772,833,17:43:9:130,-492,-113,0:0:0:482,_,centro
+18,1000,17:43:9:130,233,640,17:43:10:401,-215,360,0:0:1:271,_,aleatoria
+1280,720,17:43:10:401,273,1009,17:43:11:110,1007,-289,0:0:0:291,_,centro
+2165,598,17:43:11:110,2196,663,17:43:12:190,-31,-65,0:0:1:80,correcto, aleatoria
+1280,720,17:43:12:190,1318,776,17:43:13:35,-38,-56,0:0:0:155,correcto, centro
+647,1238,17:43:13:35,678,1304,17:43:14:428,-31,-66,0:0:1:393,correcto, aleatoria
